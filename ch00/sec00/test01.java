@@ -8,10 +8,6 @@ public class test01 {
 		System.out.println("한글자바");
 		System.out.println("Hello, JAVA");
 		System.out.println("Hello, JAVA");
-		System.out.println("Hello, JAVA");
-	
-
-	
-	
+		System.out.println("Hello, JAVA");	
 	}
 }
