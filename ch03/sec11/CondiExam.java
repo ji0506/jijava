@@ -8,6 +8,7 @@ public class CondiExam {
 		// TODO Auto-generated method stub
 		int score = 0;
 		char grade = 0;
+		String str = "";
 /*
 		char grade = (score > 90) ? 'A' : ((score > 80 ) ? 'B': 'C');
 	*/
@@ -18,7 +19,7 @@ public class CondiExam {
 		{
 			System.out.print("점수를 입력하세요:");
 			
-			String str = stdIn.nextLine();
+			str = stdIn.nextLine();
 		
 			if("q".equals(str) || "Q".equals(str))
 				break;
