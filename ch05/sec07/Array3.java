@@ -10,12 +10,12 @@ public class Array3 {
 		
 		int[][][] score = new int[3][2][3];
 		
-		for(int i=0;i<3;i++)
+/*		for(int i=0;i<3;i++)
 			for(int j=0;j<2;j++)
 				for(int z=0;z<3;z++)
 					score[i][j][z];
 		
-		
+	*/	
 
 	}
 
